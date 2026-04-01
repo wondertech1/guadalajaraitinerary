@@ -1,0 +1,120 @@
+@import "tailwindcss";
+
+:root {
+  --background: #F6F1EC;
+  --foreground: #2D2926;
+  --cantera: #C4827A;
+  --cantera-light: #F0DDD9;
+  --cantera-dark: #A8635B;
+  --obsidiana: #2D2926;
+  --agave: #4A7C59;
+  --agave-light: #E2EDE6;
+  --mariachi: #1C3A5F;
+  --mariachi-light: #DDE4ED;
+  --tequila: #D4A84B;
+  --tequila-light: #F5EDDA;
+  --piedra: #F6F1EC;
+  --piedra-dark: #E8DFD6;
+}
+
+@theme inline {
+  --color-cantera: var(--cantera);
+  --color-cantera-light: var(--cantera-light);
+  --color-cantera-dark: var(--cantera-dark);
+  --color-obsidiana: var(--obsidiana);
+  --color-agave: var(--agave);
+  --color-agave-light: var(--agave-light);
+  --color-mariachi: var(--mariachi);
+  --color-mariachi-light: var(--mariachi-light);
+  --color-tequila: var(--tequila);
+  --color-tequila-light: var(--tequila-light);
+  --color-piedra: var(--piedra);
+  --color-piedra-dark: var(--piedra-dark);
+
+  --font-heading: var(--font-fraunces);
+  --font-body: var(--font-jakarta);
+  --font-mono: var(--font-inconsolata);
+}
+
+body {
+  font-family: var(--font-body), system-ui, sans-serif;
+  background: var(--background);
+  color: var(--foreground);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading), Georgia, serif;
+}
+
+/* Cantera stone texture — subtle grain on sections */
+.cantera-texture {
+  background-image:
+    radial-gradient(ellipse at 20% 50%, rgba(196,130,122,0.04) 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 20%, rgba(196,130,122,0.03) 0%, transparent 50%);
+}
+
+/* Mesh gradient for hero — warm Guadalajara sunset feel */
+.mesh-gradient {
+  background:
+    radial-gradient(ellipse at 15% 80%, rgba(196,130,122,0.35) 0%, transparent 50%),
+    radial-gradient(ellipse at 85% 20%, rgba(212,168,75,0.2) 0%, transparent 45%),
+    radial-gradient(ellipse at 50% 50%, rgba(28,58,95,0.08) 0%, transparent 60%),
+    linear-gradient(160deg, var(--piedra) 0%, var(--piedra-dark) 100%);
+}
+
+/* Arch clip-path for portal effect */
+.arch-clip {
+  clip-path: polygon(
+    0% 100%, 0% 25%,
+    2% 15%, 6% 8%, 12% 3%, 20% 0.5%,
+    30% 0%, 70% 0%,
+    80% 0.5%, 88% 3%, 94% 8%, 98% 15%,
+    100% 25%, 100% 100%
+  );
+}
+
+/* Colonnade repeating arch pattern for decorative borders */
+.colonnade-pattern {
+  background-image: repeating-linear-gradient(
+    90deg,
+    transparent 0px,
+    transparent 56px,
+    rgba(196,130,122,0.08) 56px,
+    rgba(196,130,122,0.08) 58px
+  );
+}
+
+@keyframes arch-reveal {
+  from {
+    clip-path: inset(0 50% 0 50%);
+  }
+  to {
+    clip-path: inset(0 0% 0 0%);
+  }
+}
+
+@keyframes stone-fade {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes gentle-float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(196,130,122,0.3); }
+  50% { box-shadow: 0 0 12px 4px rgba(196,130,122,0.15); }
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--piedra); }
+::-webkit-scrollbar-thumb { background: var(--cantera); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--cantera-dark); }
+
+.scrollbar-hide { scrollbar-width: none; -ms-overflow-style: none; }
+.scrollbar-hide::-webkit-scrollbar { display: none; }
