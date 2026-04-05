@@ -38,7 +38,7 @@ export function LagoDeChapala() {
         pills={["45 min from GDL", "Half to full day", "Chapala + Ajijic", "Lakeside dining"]}
         updatedDate="Mar 2026"
         readTime="10 min"
-        image="https://images.unsplash.com/photo-1570737543098-1305f902a22c?w=1600&q=80"
+        image="/images/28-lake-chapala-sunset.jpg"
         imageAlt="Lake Chapala at sunset with mountains"
       />
 
@@ -75,7 +75,7 @@ export function LagoDeChapala() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80"
+            src="/images/05-lake-chapala-panoramic.jpg"
             alt="Lakeside boardwalk with mountain views at Lago de Chapala near Guadalajara"
             caption="The Chapala malecón stretches along the lakeshore with Sierra Madre views"
             aspectRatio="wide"
@@ -159,7 +159,7 @@ export function LagoDeChapala() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1605216663980-3a58e01b4b4c?w=800&q=80"
+            src="/images/37-colonial-church.jpg"
             alt="Colorful street and church facade in the art village of Ajijic near Lake Chapala"
             caption="Ajijic's cobblestoned streets are lined with galleries and painted doorways"
             aspectRatio="landscape"
@@ -197,7 +197,7 @@ export function LagoDeChapala() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&q=80"
+            src="/images/03-scenic-highway-jalisco.jpg"
             alt="Scenic road from Guadalajara to Lake Chapala through Jalisco countryside"
             caption="The 45-minute drive from Guadalajara to Chapala is easy and well-paved"
             aspectRatio="wide"

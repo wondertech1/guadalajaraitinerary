@@ -37,7 +37,7 @@ export function BudgetGuide() {
         pills={["3 budget tiers", "Daily breakdowns", "MXN + USD", "Money tips"]}
         updatedDate="Mar 2026"
         readTime="9 min"
-        image="https://images.unsplash.com/photo-1554672723-b208dc85134f?w=1600&q=80"
+        image="/images/20-market-pesos-produce.jpg"
         imageAlt="Mexican pesos and market scene"
       />
 
@@ -106,7 +106,7 @@ export function BudgetGuide() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?w=800&q=80"
+            src="/images/35-street-tacos-grill.jpg"
             alt="Street food vendor in Guadalajara serving affordable tacos and birria"
             caption="Street food in Guadalajara costs 20–95 MXN per dish — delicious and incredibly affordable."
             aspectRatio="landscape"
@@ -187,7 +187,7 @@ export function BudgetGuide() {
           </TipCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1667675068275-d822c63b1217?w=800&q=80"
+            src="/images/41-indoor-mercado.jpg"
             alt="Mexican market stalls in Guadalajara with cash-only vendors and fresh produce"
             caption="Markets and street stalls are cash-only — carry 500–800 MXN per day."
             aspectRatio="wide"
@@ -223,7 +223,7 @@ export function BudgetGuide() {
           </TipCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1568402102990-bc541580b59f?w=800&q=80"
+            src="/images/26-tlaquepaque-colorful-street.jpg"
             alt="Colorful Tlaquepaque artisan street in Guadalajara with free-to-browse galleries"
             caption="Tlaquepaque's galleries and pedestrian streets are free to explore."
             aspectRatio="landscape"
@@ -275,7 +275,7 @@ export function BudgetGuide() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1605216663980-3a58e01b4b4c?w=800&q=80"
+            src="/images/37-colonial-church.jpg"
             alt="Rooftop view of Guadalajara showing affordable city with modern skyline"
             caption="Guadalajara delivers world-class culture at a fraction of typical travel destination costs."
             aspectRatio="wide"

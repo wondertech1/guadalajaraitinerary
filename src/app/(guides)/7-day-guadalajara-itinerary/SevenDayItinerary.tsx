@@ -38,7 +38,7 @@ export function SevenDayItinerary() {
         pills={["7 Days", "~10,500 MXN budget", "40+ stops", "3 day trips"]}
         updatedDate="Mar 2026"
         readTime="18 min"
-        image="https://images.unsplash.com/photo-1613764974803-ff89d4be09d2?w=1600&q=80"
+        image="/images/38-guachimontones-aerial.jpg"
         imageAlt="Guachimontones circular pyramids at sunset"
       />
 
@@ -154,7 +154,7 @@ export function SevenDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1613764974803-ff89d4be09d2?w=800&q=80"
+            src="/images/38-guachimontones-aerial.jpg"
             alt="Guachimontones circular pyramids archaeological site near Guadalajara, Jalisco"
             caption="Guachimontones — the only circular pyramids in Mesoamerica"
             aspectRatio="wide"
@@ -213,7 +213,7 @@ export function SevenDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
+            src="/images/06-cabin-pine-forest.jpg"
             alt="Mountain town surrounded by pine forests in Jalisco, Mexico"
             caption="Mazamitla — a mountain pueblo mágico with pine forests and cool air"
             aspectRatio="landscape"
@@ -271,7 +271,7 @@ export function SevenDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?w=800&q=80"
+            src="/images/35-street-tacos-grill.jpg"
             alt="Mexican street tacos al pastor being served from a trompo in Guadalajara"
             caption="Third birria of the trip — by now you have your favorite spot"
             aspectRatio="landscape"
@@ -307,7 +307,7 @@ export function SevenDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=800&q=80"
+            src="/images/29-chapultepec-nightlife.jpg"
             alt="Illuminated avenue at night with bars and pedestrians in Guadalajara"
             caption="One last evening on Chapultepec — the farewell cantarito awaits"
             aspectRatio="landscape"

@@ -38,7 +38,7 @@ export function CentroHistorico() {
         pills={["8 landmarks", "Half-day walking route", "Real MXN prices", "Safety notes"]}
         updatedDate="Mar 2026"
         readTime="12 min"
-        image="https://images.unsplash.com/photo-1585975421498-1e339f0e5c5b?w=1600&q=80"
+        image="/images/32-guadalajara-cathedral.jpg"
         imageAlt="Guadalajara Cathedral and Plaza de Armas"
       />
 
@@ -93,7 +93,7 @@ export function CentroHistorico() {
           </SpotCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&q=80"
+            src="/images/10-colonial-plaza-jacarandas.jpg"
             alt="Plaza de Armas fountain and gazebo in Guadalajara Centro Histórico"
             caption="The Art Nouveau gazebo at Plaza de Armas"
             aspectRatio="landscape"
@@ -122,7 +122,7 @@ export function CentroHistorico() {
           </SpotCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=800&q=80"
+            src="/images/30-orozco-mural-fresco.jpg"
             alt="Orozco-style murals inside Guadalajara government palace"
             caption="Orozco's dramatic Hidalgo mural in the Palacio de Gobierno"
             aspectRatio="landscape"
@@ -154,7 +154,7 @@ export function CentroHistorico() {
           </SpotCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1667675068275-d822c63b1217?w=800&q=80"
+            src="/images/41-indoor-mercado.jpg"
             alt="Indoor market stalls at Mercado San Juan de Dios in Guadalajara"
             caption="Mercado San Juan de Dios — Latin America's largest indoor market"
             aspectRatio="wide"
@@ -192,7 +192,7 @@ export function CentroHistorico() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&q=80"
+            src="/images/31-colonial-courtyard.jpg"
             alt="Colonial architecture interior courtyard in Guadalajara Centro Histórico"
             caption="Neoclassical courtyards define Centro's colonial character"
             aspectRatio="landscape"

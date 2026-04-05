@@ -125,7 +125,7 @@ export function WhereToStay() {
         pills={["6 neighborhoods", "All budgets", "Honest trade-offs", "Zero affiliates"]}
         updatedDate="Mar 2026"
         readTime="12 min"
-        image="https://images.unsplash.com/photo-1582719508461-905c673771fd?w=1600&q=80"
+        image="/images/31-colonial-courtyard.jpg"
         imageAlt="Boutique hotel courtyard in Guadalajara"
       />
 
@@ -190,7 +190,7 @@ export function WhereToStay() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1585975421498-1e339f0e5c5b?w=800&q=80"
+            src="/images/32-guadalajara-cathedral.jpg"
             alt="Colonial street in Guadalajara with colorful buildings and walkable sidewalks"
             caption="Guadalajara's walkable colonial streets make neighborhood choice crucial for your trip."
             aspectRatio="landscape"
@@ -296,7 +296,7 @@ export function WhereToStay() {
           </NeighborhoodCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=800&q=80"
+            src="/images/29-chapultepec-nightlife.jpg"
             alt="Avenida Chapultepec in Guadalajara lit up at night with bars and restaurants"
             caption="Av. Chapultepec — the nightlife corridor bordering Colonia Americana and Chapultepec."
             aspectRatio="wide"
@@ -394,7 +394,7 @@ export function WhereToStay() {
           </NeighborhoodCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1568402102990-bc541580b59f?w=800&q=80"
+            src="/images/26-tlaquepaque-colorful-street.jpg"
             alt="Colorful Tlaquepaque artisan street in Guadalajara with craft galleries"
             caption="Tlaquepaque's pedestrian streets offer a quieter, artisan-focused base."
             aspectRatio="landscape"
@@ -460,7 +460,7 @@ export function WhereToStay() {
           </TipCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1605216663980-3a58e01b4b4c?w=800&q=80"
+            src="/images/37-colonial-church.jpg"
             alt="Rooftop view of Guadalajara city skyline at sunset"
             caption="Many mid-range hotels offer rooftop terraces with sweeping city views."
             aspectRatio="wide"

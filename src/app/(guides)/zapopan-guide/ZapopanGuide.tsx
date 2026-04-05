@@ -38,7 +38,7 @@ export function ZapopanGuide() {
         pills={["15 min from Centro", "Half day", "Basílica + MAZ", "Quieter vibe"]}
         updatedDate="Mar 2026"
         readTime="8 min"
-        image="https://images.unsplash.com/photo-1605216663980-3a58e01b2b4c?w=1600&q=80"
+        image="/images/36-basilica-zapopan.jpg"
         imageAlt="Zapopan basilica exterior"
       />
 
@@ -91,7 +91,7 @@ export function ZapopanGuide() {
           </SpotCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&q=80"
+            src="/images/10-colonial-plaza-jacarandas.jpg"
             alt="Plaza with fountain in front of Basílica de Zapopan Guadalajara"
             caption="The peaceful plaza outside the Basílica de Zapopan"
             aspectRatio="landscape"
@@ -123,7 +123,7 @@ export function ZapopanGuide() {
           </SpotCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=800&q=80"
+            src="/images/16-art-gallery.jpg"
             alt="Modern art gallery interior at MAZ museum in Zapopan Guadalajara"
             caption="MAZ hosts rotating contemporary art from Mexico and beyond"
             aspectRatio="wide"
@@ -145,7 +145,7 @@ export function ZapopanGuide() {
           </SpotCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&q=80"
+            src="/images/31-colonial-courtyard.jpg"
             alt="Colonial architecture and arched colonnades in Zapopan center Guadalajara"
             caption="Zapopan's colonial center has a fraction of Centro's crowds"
             aspectRatio="landscape"

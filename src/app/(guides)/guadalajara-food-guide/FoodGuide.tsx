@@ -73,7 +73,7 @@ export function FoodGuide() {
         pills={["40+ dishes", "Real MXN prices", "Stall-level specifics", "Zero sponsorships"]}
         updatedDate="Mar 2026"
         readTime="18 min"
-        image="https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=1600&q=80"
+        image="/images/19-birria-tacos.jpg"
         imageAlt="Birria tacos with consommé in Guadalajara"
       />
 
@@ -192,7 +192,7 @@ export function FoodGuide() {
       <section className="px-4 sm:px-6">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?w=800&q=80"
+            src="/images/35-street-tacos-grill.jpg"
             alt="Authentic Mexican street tacos served on handmade corn tortillas in Guadalajara"
             caption="Street tacos on handmade tortillas — the foundation of Guadalajara's food scene"
             aspectRatio="landscape"
@@ -347,7 +347,7 @@ export function FoodGuide() {
       <section className="px-4 sm:px-6">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&q=80"
+            src="/images/25-torta-ahogada.jpg"
             alt="Tortas ahogadas drowned in chile sauce — Guadalajara's iconic sandwich"
             caption="Tortas ahogadas: the drowned sandwich you can only get in Guadalajara"
             aspectRatio="landscape"
@@ -433,7 +433,7 @@ export function FoodGuide() {
       <section className="px-4 sm:px-6">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="https://images.unsplash.com/photo-1569529465841-dfecdab7503b?w=800&q=80"
+            src="/images/27-tequila-bottles-distillery.jpg"
             alt="Tequila and raicilla bottles lined up at a Guadalajara cantina bar"
             caption="Jalisco is the birthplace of tequila — and its lesser-known cousin, raicilla"
             aspectRatio="wide"
@@ -600,7 +600,7 @@ export function FoodGuide() {
       <section className="px-4 sm:px-6">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="https://images.unsplash.com/photo-1596392927852-2a18e07e3e9b?w=800&q=80"
+            src="/images/33-tropical-fruit-stall.jpg"
             alt="Fresh tropical fruit display at a Guadalajara market stall"
             caption="Market fruit stalls offer mamey, guanábana, and other tropical fruits year-round"
             aspectRatio="landscape"

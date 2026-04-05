@@ -38,7 +38,7 @@ export function TonalaGuide() {
         pills={["Thu & Sun only", "4,000+ vendors", "20 min from Centro", "Workshop visits"]}
         updatedDate="Mar 2026"
         readTime="10 min"
-        image="https://images.unsplash.com/photo-1596392927852-2a18e07e3e9b?w=1600&q=80"
+        image="/images/33-tropical-fruit-stall.jpg"
         imageAlt="Artisan pottery at Tonalá market"
       />
 
@@ -83,7 +83,7 @@ export function TonalaGuide() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=800&q=80"
+            src="/images/24-talavera-pottery.jpg"
             alt="Mexican pottery and ceramics for sale at Tonalá artisan market Guadalajara"
             caption="Thousands of ceramic pieces line the Tonalá tianguis streets"
             aspectRatio="landscape"
@@ -125,7 +125,7 @@ export function TonalaGuide() {
           </SpotCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&q=80"
+            src="/images/18-light-rail-station.jpg"
             alt="Blown glass artisan crafting glassware in Tonalá workshop Guadalajara"
             caption="Family-run glass workshops open their doors on market days"
             aspectRatio="square"
@@ -170,7 +170,7 @@ export function TonalaGuide() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1667675068275-d822c63b1217?w=800&q=80"
+            src="/images/41-indoor-mercado.jpg"
             alt="Indoor market stalls with handmade goods at Tonalá tianguis Guadalajara"
             caption="The tianguis stretches across blocks of Tonalá's streets"
             aspectRatio="wide"

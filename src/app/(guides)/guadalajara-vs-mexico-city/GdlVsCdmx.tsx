@@ -50,7 +50,7 @@ export function GdlVsCdmx() {
         pills={["Cost comparison", "Food • Safety • Culture", "Side-by-side data", "Who should go where"]}
         updatedDate="Mar 2026"
         readTime="11 min"
-        image="https://images.unsplash.com/photo-1518659526054-190340b32735?w=1600&q=80"
+        image="/images/12-guadalajara-cityscape.jpg"
         imageAlt="Mexican cityscape comparison"
       />
 
@@ -119,7 +119,7 @@ export function GdlVsCdmx() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1585975421498-1e339f0e5c5b?w=800&q=80"
+            src="/images/32-guadalajara-cathedral.jpg"
             alt="Colonial street in Guadalajara with colorful buildings contrasting Mexico City's urban sprawl"
             caption="Guadalajara's walkable colonial streets feel worlds apart from CDMX's megacity energy"
             aspectRatio="landscape"
@@ -167,7 +167,7 @@ export function GdlVsCdmx() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1568402102990-bc541580b59f?w=800&q=80"
+            src="/images/26-tlaquepaque-colorful-street.jpg"
             alt="Artisan market in Guadalajara's Tlaquepaque district compared to Mexico City shopping"
             caption="Tlaquepaque's artisan culture gives Guadalajara an edge in handcraft shopping"
             aspectRatio="landscape"
@@ -218,7 +218,7 @@ export function GdlVsCdmx() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&q=80"
+            src="/images/10-colonial-plaza-jacarandas.jpg"
             alt="Mexican plaza with gardens in Guadalajara showing the city's relaxed atmosphere"
             caption="GDL's unhurried plazas vs CDMX's non-stop energy — different vibes for different travelers"
             aspectRatio="wide"

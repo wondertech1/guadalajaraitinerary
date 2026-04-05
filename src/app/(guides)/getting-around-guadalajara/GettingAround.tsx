@@ -37,7 +37,7 @@ export function GettingAround() {
         pills={["Uber prices", "Airport transfer", "Mi Macro", "Day trip transport"]}
         updatedDate="Mar 2026"
         readTime="9 min"
-        image="https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=1600&q=80"
+        image="/images/18-light-rail-station.jpg"
         imageAlt="Guadalajara light rail station"
       />
 
@@ -128,7 +128,7 @@ export function GettingAround() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&q=80"
+            src="/images/03-scenic-highway-jalisco.jpg"
             alt="Uber ride through Guadalajara streets showing convenient city transport"
             caption="Uber is the default transport for visitors — cheap, safe, and available everywhere in Guadalajara."
             aspectRatio="landscape"
@@ -179,7 +179,7 @@ export function GettingAround() {
           </TipCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800&q=80"
+            src="/images/34-busy-pedestrian-street.jpg"
             alt="Guadalajara pedestrian street with walkable neighborhoods and public transit access"
             caption="Guadalajara's pedestrian-friendly corridors connect to Mi Macro and light rail stations."
             aspectRatio="wide"
@@ -246,7 +246,7 @@ export function GettingAround() {
           </TipCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1585975421498-1e339f0e5c5b?w=800&q=80"
+            src="/images/32-guadalajara-cathedral.jpg"
             alt="Colonial Guadalajara street near the airport transfer route to Centro"
             caption="The airport is 20–25 minutes from central Guadalajara by Uber."
             aspectRatio="landscape"

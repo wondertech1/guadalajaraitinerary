@@ -38,7 +38,7 @@ export function MazamitlaDayTrip() {
         pills={["130 km from GDL", "Day trip or overnight", "2,200m altitude", "Pueblo Mágico"]}
         updatedDate="Mar 2026"
         readTime="9 min"
-        image="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1600&q=80"
+        image="/images/06-cabin-pine-forest.jpg"
         imageAlt="Mountain cabin in pine forest"
       />
 
@@ -72,7 +72,7 @@ export function MazamitlaDayTrip() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1511497584788-876760111969?w=800&q=80"
+            src="/images/07-foggy-pine-forest.jpg"
             alt="Foggy pine forest in the mountains near Mazamitla, Jalisco"
             caption="Mazamitla's pine forests feel worlds away from Guadalajara's heat"
             aspectRatio="wide"
@@ -155,7 +155,7 @@ export function MazamitlaDayTrip() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&q=80"
+            src="/images/02-mazamitla-town.jpg"
             alt="Pine forest cabin retreat in the mountains of Mazamitla near Guadalajara"
             caption="Mazamitla's wooden-balcony town center has artisan shops and cozy cafes"
             aspectRatio="landscape"
@@ -250,7 +250,7 @@ export function MazamitlaDayTrip() {
       <section className="py-6 px-4 sm:px-6">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80"
+            src="/images/05-lake-chapala-panoramic.jpg"
             alt="Scenic mountain valley and lake landscape near Mazamitla, Jalisco"
             caption="The Sierra del Tigre surrounding Mazamitla offers excellent hiking trails"
             aspectRatio="wide"

@@ -38,7 +38,7 @@ export function ChapultepecGuide() {
         pills={["Most walkable", "30+ bars", "Best food scene", "Art Deco architecture"]}
         updatedDate="Mar 2026"
         readTime="11 min"
-        image="https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=1600&q=80"
+        image="/images/29-chapultepec-nightlife.jpg"
         imageAlt="Chapultepec avenue at night with bar lights"
       />
 
@@ -79,7 +79,7 @@ export function ChapultepecGuide() {
           </SpotCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1561059488-916d69792237?w=800&q=80"
+            src="/images/23-street-mural.jpg"
             alt="Street art and murals on Colonia Americana walls in Guadalajara"
             caption="Street art adorns Colonia Americana's tree-lined blocks"
             aspectRatio="landscape"
@@ -116,7 +116,7 @@ export function ChapultepecGuide() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&q=80"
+            src="/images/31-colonial-courtyard.jpg"
             alt="Art Deco architecture interior in Guadalajara Colonia Americana"
             caption="Art Deco mansions converted into cafés and boutiques"
             aspectRatio="landscape"
@@ -150,7 +150,7 @@ export function ChapultepecGuide() {
           </SpotCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1585975421498-1e339f0e5c5b?w=800&q=80"
+            src="/images/32-guadalajara-cathedral.jpg"
             alt="Guadalajara nightlife along Avenida Chapultepec bar corridor"
             caption="The Chapultepec strip comes alive after 9pm"
             aspectRatio="wide"

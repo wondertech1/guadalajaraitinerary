@@ -38,7 +38,7 @@ export function TlaqupaqueGuide() {
         pills={["20 min from Centro", "Half day", "Shopping + galleries", "El Parián"]}
         updatedDate="Mar 2026"
         readTime="11 min"
-        image="https://images.unsplash.com/photo-1568402102990-bc541580b59f?w=1600&q=80"
+        image="/images/26-tlaquepaque-colorful-street.jpg"
         imageAlt="Colorful pedestrian street in Tlaquepaque"
       />
 
@@ -84,7 +84,7 @@ export function TlaqupaqueGuide() {
           </SpotCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&q=80"
+            src="/images/18-light-rail-station.jpg"
             alt="Blown glass artisan at work in Tlaquepaque Guadalajara"
             caption="Glass-blowing workshops line Calle Independencia"
             aspectRatio="landscape"
@@ -115,7 +115,7 @@ export function TlaqupaqueGuide() {
           </SpotCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?w=800&q=80"
+            src="/images/09-mariachi-musicians.jpg"
             alt="Mariachi musicians performing at El Parián in Tlaquepaque"
             caption="Mariachi bands circulate El Parián offering songs"
             aspectRatio="landscape"
@@ -140,7 +140,7 @@ export function TlaqupaqueGuide() {
           </SpotCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=800&q=80"
+            src="/images/24-talavera-pottery.jpg"
             alt="Colorful Mexican pottery and ceramics at Tlaquepaque gallery"
             caption="Talavera pottery at Antigua de México gallery"
             aspectRatio="square"

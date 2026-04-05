@@ -38,7 +38,7 @@ export function TwoDayItinerary() {
         pills={["2 Days", "~2,600 MXN budget", "16 stops", "Tequila tasting included"]}
         updatedDate="Mar 2026"
         readTime="11 min"
-        image="https://images.unsplash.com/photo-1568402102990-bc541580b59f?w=1600&q=80"
+        image="/images/26-tlaquepaque-colorful-street.jpg"
         imageAlt="Colorful street in Tlaquepaque, Guadalajara"
       />
 
@@ -107,7 +107,7 @@ export function TwoDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1585975421498-1e339f0e5c5b?w=800&q=80"
+            src="/images/32-guadalajara-cathedral.jpg"
             alt="Guadalajara Cathedral twin spires against a blue sky in Centro Histórico"
             caption="The cathedral anchors Centro Histórico's cluster of colonial plazas"
             aspectRatio="landscape"
@@ -200,7 +200,7 @@ export function TwoDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&q=80"
+            src="/images/31-colonial-courtyard.jpg"
             alt="Art Deco architecture in Colonia Americana, Guadalajara with tree-lined streets"
             caption="Colonia Americana — Art Deco facades and Guadalajara's best café scene"
             aspectRatio="wide"
@@ -240,7 +240,7 @@ export function TwoDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1569529465841-dfecdab7503b?w=800&q=80"
+            src="/images/27-tequila-bottles-distillery.jpg"
             alt="Tequila bottles lined up at a Guadalajara distillery tasting room"
             caption="Tasting flights — blanco, reposado, and añejo from Jalisco distilleries"
             aspectRatio="landscape"
@@ -268,7 +268,7 @@ export function TwoDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800&q=80"
+            src="/images/08-tequila-mezcal-tasting.jpg"
             alt="Craft cocktail being prepared at a Guadalajara Chapultepec bar"
             caption="Chapultepec's bar strip — 30+ spots in a 1km stretch"
             aspectRatio="square"

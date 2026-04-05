@@ -72,7 +72,7 @@ export function MercadoGuide() {
         pills={["3 floors", "3,000+ stalls", "Floor-by-floor guide", "Pickpocket warnings"]}
         updatedDate="Mar 2026"
         readTime="8 min"
-        image="https://images.unsplash.com/photo-1667675068275-d822c63b1217?w=1600&q=80"
+        image="/images/41-indoor-mercado.jpg"
         imageAlt="Inside Mercado San Juan de Dios"
       />
 
@@ -101,7 +101,7 @@ export function MercadoGuide() {
       <section className="px-4 sm:px-6">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="https://images.unsplash.com/photo-1596392927852-2a18e07e3e9b?w=800&q=80"
+            src="/images/33-tropical-fruit-stall.jpg"
             alt="Colorful fruit and produce stalls inside a Guadalajara market"
             caption="The ground floor is the real market — dried chiles, spices, leather goods, and herbal remedies"
             aspectRatio="wide"
@@ -172,7 +172,7 @@ export function MercadoGuide() {
       <section className="px-4 sm:px-6">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?w=800&q=80"
+            src="/images/35-street-tacos-grill.jpg"
             alt="Fresh street tacos being prepared at a Guadalajara market food stall"
             caption="The third-floor food court serves some of the best market food in Guadalajara"
             aspectRatio="landscape"
@@ -222,7 +222,7 @@ export function MercadoGuide() {
       <section className="px-4 sm:px-6 pb-8">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="https://images.unsplash.com/photo-1624371414361-e670246ae8ec?w=800&q=80"
+            src="/images/39-churros-cajeta.jpg"
             alt="Freshly made churros dusted with cinnamon sugar — a popular Guadalajara market snack"
             caption="Churros from market vendors make the perfect post-lunch snack"
             aspectRatio="square"

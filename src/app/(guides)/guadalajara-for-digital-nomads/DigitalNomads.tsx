@@ -38,7 +38,7 @@ export function DigitalNomads() {
         pills={["Cost of living", "Coworking spaces", "Internet speeds", "Visa info"]}
         updatedDate="Mar 2026"
         readTime="11 min"
-        image="https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1600&q=80"
+        image="/images/13-coworking-space.jpg"
         imageAlt="Coworking space in Guadalajara"
       />
 
@@ -63,7 +63,7 @@ export function DigitalNomads() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80"
+            src="/images/14-coffee-shop-coworking.jpg"
             alt="Digital nomads working at a coffee shop in Guadalajara with laptops"
             caption="GDL's cafe culture and fast WiFi make it a natural fit for remote workers"
             aspectRatio="landscape"
@@ -168,7 +168,7 @@ export function DigitalNomads() {
           </SpotCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=800&q=80"
+            src="/images/29-chapultepec-nightlife.jpg"
             alt="Chapultepec avenue in Guadalajara at night near coworking spaces and cafes"
             caption="Av. Chapultepec is the hub for nomad-friendly coworking and social life"
             aspectRatio="wide"
@@ -201,7 +201,7 @@ export function DigitalNomads() {
           </TipCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&q=80"
+            src="/images/10-colonial-plaza-jacarandas.jpg"
             alt="Tree-lined plaza and gardens in Guadalajara residential neighborhood for digital nomads"
             caption="Leafy plazas in Colonia Americana offer a peaceful break between work sessions"
             aspectRatio="landscape"

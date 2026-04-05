@@ -38,7 +38,7 @@ export function CraftBeerMezcal() {
         pills={["Raicilla explained", "Best mezcal bars", "Craft breweries", "Tasting cheat sheet"]}
         updatedDate="Mar 2026"
         readTime="10 min"
-        image="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1600&q=80"
+        image="/images/08-tequila-mezcal-tasting.jpg"
         imageAlt="Mezcal flight at a Guadalajara bar"
       />
 
@@ -100,7 +100,7 @@ export function CraftBeerMezcal() {
       <section className="px-4 sm:px-6">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="https://images.unsplash.com/photo-1569529465841-dfecdab7503b?w=800&q=80"
+            src="/images/27-tequila-bottles-distillery.jpg"
             alt="Tequila bottles aging at a Jalisco distillery near Guadalajara"
             caption="Jalisco produces all of Mexico's tequila — and raicilla is its best-kept secret"
             aspectRatio="landscape"
@@ -151,7 +151,7 @@ export function CraftBeerMezcal() {
       <section className="px-4 sm:px-6">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=800&q=80"
+            src="/images/29-chapultepec-nightlife.jpg"
             alt="Neon-lit bar street on Guadalajara's Chapultepec avenue at night"
             caption="The Chapultepec corridor is home to most of Guadalajara's best bars and taprooms"
             aspectRatio="wide"
@@ -211,7 +211,7 @@ export function CraftBeerMezcal() {
       <section className="px-4 sm:px-6 pb-8">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="https://images.unsplash.com/photo-1532634922-8fe0b757fb13?w=800&q=80"
+            src="/images/17-craft-beer-taps.jpg"
             alt="Craft beer taps at a Guadalajara microbrewery taproom"
             caption="GDL's craft beer scene is young but growing — pints cost what mass-market beers cost in the US"
             aspectRatio="landscape"

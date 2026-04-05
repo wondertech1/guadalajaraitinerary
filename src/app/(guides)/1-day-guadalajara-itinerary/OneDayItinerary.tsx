@@ -38,7 +38,7 @@ export function OneDayItinerary() {
         pills={["1 Day", "~1,200 MXN", "10 stops", "Walkable + 2 Ubers"]}
         updatedDate="Mar 2026"
         readTime="8 min"
-        image="https://images.unsplash.com/photo-1585975421498-1e339f0e5c5b?w=1600&q=80"
+        image="/images/32-guadalajara-cathedral.jpg"
         imageAlt="Guadalajara cathedral at golden hour"
       />
 
@@ -129,7 +129,7 @@ export function OneDayItinerary() {
           </TipCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?w=800&q=80"
+            src="/images/35-street-tacos-grill.jpg"
             alt="Authentic Mexican birria tacos served at a Guadalajara street stall"
             caption="Birria en caldo — the essential Guadalajara breakfast"
             aspectRatio="landscape"
@@ -163,7 +163,7 @@ export function OneDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1568402102990-bc541580b59f?w=800&q=80"
+            src="/images/26-tlaquepaque-colorful-street.jpg"
             alt="Colorful pedestrian street in Tlaquepaque, Guadalajara with artisan shops"
             caption="Calle Independencia in Tlaquepaque — galleries and blown-glass workshops"
             aspectRatio="wide"
@@ -225,7 +225,7 @@ export function OneDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=800&q=80"
+            src="/images/29-chapultepec-nightlife.jpg"
             alt="Avenida Chapultepec at night in Guadalajara with illuminated bars and restaurants"
             caption="Av. Chapultepec — Guadalajara's liveliest pedestrian boulevard"
             aspectRatio="landscape"
@@ -250,7 +250,7 @@ export function OneDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?w=800&q=80"
+            src="/images/09-mariachi-musicians.jpg"
             alt="Mariachi musicians performing in traditional charro suits in Guadalajara"
             caption="Mariachi — born in Jalisco, best heard live with a cantarito in hand"
             aspectRatio="landscape"

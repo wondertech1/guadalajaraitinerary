@@ -37,7 +37,7 @@ export function HospicioCabanas() {
         pills={["UNESCO World Heritage", "Orozco frescoes", "90 MXN (free Tue)", "45–60 min"]}
         updatedDate="Mar 2026"
         readTime="9 min"
-        image="https://images.unsplash.com/photo-1605216663980-3a58e01b4b4c?w=1600&q=80"
+        image="/images/37-colonial-church.jpg"
         imageAlt="Hospicio Cabañas courtyard"
       />
 
@@ -66,7 +66,7 @@ export function HospicioCabanas() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&q=80"
+            src="/images/31-colonial-courtyard.jpg"
             alt="Neoclassical courtyard with arched colonnades at Hospicio Cabañas Guadalajara"
             caption="One of 23 interconnected courtyards at Hospicio Cabañas"
             aspectRatio="landscape"
@@ -139,7 +139,7 @@ export function HospicioCabanas() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=800&q=80"
+            src="/images/30-orozco-mural-fresco.jpg"
             alt="Orozco mural fresco detail showing conquest imagery at Hospicio Cabañas Guadalajara"
             caption="Orozco's wall frescoes depict the collision of civilizations"
             aspectRatio="wide"
@@ -167,7 +167,7 @@ export function HospicioCabanas() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=800&q=80"
+            src="/images/16-art-gallery.jpg"
             alt="Contemporary art exhibition gallery inside Hospicio Cabañas Guadalajara"
             caption="Rotating contemporary exhibitions fill the outer galleries"
             aspectRatio="landscape"

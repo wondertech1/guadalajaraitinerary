@@ -79,7 +79,7 @@ export function SafetyTips() {
         pills={["Zone-by-zone", "Updated Mar 2026", "Practical tips", "Scam alerts"]}
         updatedDate="Mar 2026"
         readTime="10 min"
-        image="https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=1600&q=80"
+        image="/images/34-busy-pedestrian-street.jpg"
         imageAlt="Busy pedestrian street in Guadalajara Centro"
       />
 
@@ -119,7 +119,7 @@ export function SafetyTips() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=800&q=80"
+            src="/images/29-chapultepec-nightlife.jpg"
             alt="Well-lit Guadalajara avenue at night with pedestrians and restaurants"
             caption="Tourist corridors like Av. Chapultepec stay populated and well-lit until late."
             aspectRatio="landscape"
@@ -209,7 +209,7 @@ export function SafetyTips() {
           </ZoneCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1585975421498-1e339f0e5c5b?w=800&q=80"
+            src="/images/32-guadalajara-cathedral.jpg"
             alt="Colonial Guadalajara street during daytime with pedestrians walking safely"
             caption="Guadalajara's tourist neighborhoods are well-patrolled and safe during the day."
             aspectRatio="wide"
@@ -308,7 +308,7 @@ export function SafetyTips() {
           </TipCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1667675068275-d822c63b1217?w=800&q=80"
+            src="/images/41-indoor-mercado.jpg"
             alt="Busy Mexican market stalls in Guadalajara where pickpocket awareness is important"
             caption="Markets like San Juan de Dios are safe but require awareness of your belongings."
             aspectRatio="landscape"
@@ -423,7 +423,7 @@ export function SafetyTips() {
           </TipCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&q=80"
+            src="/images/03-scenic-highway-jalisco.jpg"
             alt="Uber ride through Guadalajara streets showing safe transport option"
             caption="Uber and Didi are the safest way to get around Guadalajara, especially after dark."
             aspectRatio="wide"

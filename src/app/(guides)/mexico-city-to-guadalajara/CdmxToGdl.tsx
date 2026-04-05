@@ -37,7 +37,7 @@ export function CdmxToGdl() {
         pills={["540 km", "1 hr flight", "6 hr bus", "Side-by-side comparison"]}
         updatedDate="Mar 2026"
         readTime="7 min"
-        image="https://images.unsplash.com/photo-1518659526054-190340b32735?w=1600&q=80"
+        image="/images/12-guadalajara-cityscape.jpg"
         imageAlt="Highway through Mexican highlands"
       />
 
@@ -91,7 +91,7 @@ export function CdmxToGdl() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=800&q=80"
+            src="/images/01-aerial-view-airplane.jpg"
             alt="Aerial view of Mexico from airplane window on the flight from Mexico City to Guadalajara"
             caption="The 1-hour flight between CDMX and GDL offers highland views on clear days"
             aspectRatio="wide"
@@ -166,7 +166,7 @@ export function CdmxToGdl() {
           </TipCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&q=80"
+            src="/images/18-light-rail-station.jpg"
             alt="Mexican bus station with luxury coaches for the Mexico City to Guadalajara route"
             caption="ETN and Primera Plus luxury buses offer reclining seats and WiFi for the 6-hour ride"
             aspectRatio="landscape"
@@ -199,7 +199,7 @@ export function CdmxToGdl() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&q=80"
+            src="/images/10-colonial-plaza-jacarandas.jpg"
             alt="Mexican highland landscape along the highway between Mexico City and Guadalajara"
             caption="The toll highway passes through scenic Mexican highlands for 540 km"
             aspectRatio="wide"

@@ -74,7 +74,7 @@ export function TequilaDayTrip() {
         pills={["60 km from GDL", "Full day", "3 distilleries compared", "Real MXN prices"]}
         updatedDate="Mar 2026"
         readTime="15 min"
-        image="https://images.unsplash.com/photo-1629216432687-3e2e0ee35fe5?w=1600&q=80"
+        image="/images/40-agave-fields-tequila.jpg"
         imageAlt="Blue agave fields stretching to the horizon near Tequila, Jalisco"
       />
 
@@ -161,7 +161,7 @@ export function TequilaDayTrip() {
           </TipCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&q=80"
+            src="/images/03-scenic-highway-jalisco.jpg"
             alt="Scenic highway through agave fields on the road from Guadalajara to Tequila"
             caption="The drive to Tequila passes through UNESCO-designated agave landscapes"
             aspectRatio="wide"
@@ -274,7 +274,7 @@ export function TequilaDayTrip() {
           </DistilleryCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1569529465841-dfecdab7503b?w=800&q=80"
+            src="/images/27-tequila-bottles-distillery.jpg"
             alt="Tequila bottles lined up at a traditional distillery in Tequila, Jalisco"
             caption="Distillery shops offer bottles at 30-50% less than Guadalajara liquor stores"
             aspectRatio="landscape"
@@ -320,7 +320,7 @@ export function TequilaDayTrip() {
           </TipCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1605216663980-3a58e01b4b4c?w=800&q=80"
+            src="/images/37-colonial-church.jpg"
             alt="Historic church and colorful buildings in the town of Tequila, Jalisco near Guadalajara"
             caption="Tequila's main plaza and church — a pleasant base between distillery tours"
             aspectRatio="landscape"
@@ -398,7 +398,7 @@ export function TequilaDayTrip() {
       <section className="py-6 px-4 sm:px-6">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800&q=80"
+            src="/images/08-tequila-mezcal-tasting.jpg"
             alt="Tequila tasting glasses with blanco, reposado, and añejo samples in Tequila, Mexico"
             caption="A proper tasting: blanco, reposado, and añejo side by side"
             aspectRatio="wide"

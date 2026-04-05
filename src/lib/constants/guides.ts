@@ -20,7 +20,7 @@ export const guideLinks: GuideLink[] = [
     description: "Centro Histórico + Tlaquepaque in one packed day",
     category: "itinerary",
     accentColor: "cantera",
-    image: "https://images.unsplash.com/photo-1585975421498-1e339f0e5c5b?w=800&q=80",
+    image: "/images/32-guadalajara-cathedral.jpg",
     imageAlt: "Guadalajara cathedral at golden hour",
   },
   {
@@ -30,7 +30,7 @@ export const guideLinks: GuideLink[] = [
     description: "Add Chapultepec nightlife and a tequila tasting",
     category: "itinerary",
     accentColor: "cantera",
-    image: "https://images.unsplash.com/photo-1568402102990-bc541580b59f?w=800&q=80",
+    image: "/images/26-tlaquepaque-colorful-street.jpg",
     imageAlt: "Colorful street in Tlaquepaque",
   },
   {
@@ -40,7 +40,7 @@ export const guideLinks: GuideLink[] = [
     description: "The sweet spot — city highlights + Tequila day trip",
     category: "itinerary",
     accentColor: "tequila",
-    image: "https://images.unsplash.com/photo-1629216432687-3e2e0ee35fe5?w=800&q=80",
+    image: "/images/40-agave-fields-tequila.jpg",
     imageAlt: "Agave fields near Tequila, Jalisco",
   },
   {
@@ -50,7 +50,7 @@ export const guideLinks: GuideLink[] = [
     description: "Full city + Tequila + Lago de Chapala",
     category: "itinerary",
     accentColor: "agave",
-    image: "https://images.unsplash.com/photo-1570737543098-1305f902a22c?w=800&q=80",
+    image: "/images/28-lake-chapala-sunset.jpg",
     imageAlt: "Lake Chapala sunset with mountains",
   },
   {
@@ -60,7 +60,7 @@ export const guideLinks: GuideLink[] = [
     description: "Extended with Guachimontones + Mazamitla",
     category: "itinerary",
     accentColor: "mariachi",
-    image: "https://images.unsplash.com/photo-1613764974803-ff89d4be09d2?w=800&q=80",
+    image: "/images/38-guachimontones-aerial.jpg",
     imageAlt: "Guachimontones circular pyramids",
   },
   // Planning
@@ -70,7 +70,7 @@ export const guideLinks: GuideLink[] = [
     description: "Neighborhood breakdown with honest trade-offs",
     category: "planning",
     accentColor: "mariachi",
-    image: "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&q=80",
+    image: "/images/31-colonial-courtyard.jpg",
     imageAlt: "Boutique hotel in Guadalajara",
   },
   {
@@ -79,7 +79,7 @@ export const guideLinks: GuideLink[] = [
     description: "Month-by-month with fiestas calendar",
     category: "planning",
     accentColor: "tequila",
-    image: "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&q=80",
+    image: "/images/10-colonial-plaza-jacarandas.jpg",
     imageAlt: "Guadalajara plaza with jacaranda trees",
   },
   {
@@ -88,7 +88,7 @@ export const guideLinks: GuideLink[] = [
     description: "Mi Macro, Uber vs taxi, real costs",
     category: "planning",
     accentColor: "agave",
-    image: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&q=80",
+    image: "/images/18-light-rail-station.jpg",
     imageAlt: "Guadalajara light rail station",
   },
   {
@@ -97,7 +97,7 @@ export const guideLinks: GuideLink[] = [
     description: "Daily cost breakdowns at 3 tiers",
     category: "planning",
     accentColor: "agave",
-    image: "https://images.unsplash.com/photo-1554672723-b208dc85134f?w=800&q=80",
+    image: "/images/20-market-pesos-produce.jpg",
     imageAlt: "Mexican pesos and market stall",
   },
   {
@@ -106,7 +106,7 @@ export const guideLinks: GuideLink[] = [
     description: "Zone-by-zone honest breakdown",
     category: "planning",
     accentColor: "cantera",
-    image: "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=800&q=80",
+    image: "/images/34-busy-pedestrian-street.jpg",
     imageAlt: "Busy Guadalajara pedestrian street",
   },
   // Food
@@ -116,7 +116,7 @@ export const guideLinks: GuideLink[] = [
     description: "Birria, tortas ahogadas, tejuino — stall-level specifics",
     category: "food",
     accentColor: "cantera",
-    image: "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=800&q=80",
+    image: "/images/19-birria-tacos.jpg",
     imageAlt: "Birria tacos with consommé",
   },
   {
@@ -125,7 +125,7 @@ export const guideLinks: GuideLink[] = [
     description: "Chapultepec corridor, mezcalerías, mariachi",
     category: "food",
     accentColor: "mariachi",
-    image: "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=800&q=80",
+    image: "/images/29-chapultepec-nightlife.jpg",
     imageAlt: "Night street with bars in Chapultepec",
   },
   {
@@ -134,7 +134,7 @@ export const guideLinks: GuideLink[] = [
     description: "Emerging scene with specific bars and prices",
     category: "food",
     accentColor: "tequila",
-    image: "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800&q=80",
+    image: "/images/08-tequila-mezcal-tasting.jpg",
     imageAlt: "Mezcal flight at a Guadalajara bar",
   },
   // Neighborhoods
@@ -144,7 +144,7 @@ export const guideLinks: GuideLink[] = [
     description: "Cathedral, Hospicio Cabañas, Mercado San Juan de Dios",
     category: "neighborhood",
     accentColor: "cantera",
-    image: "https://images.unsplash.com/photo-1585975421498-1e339f0e5c5b?w=800&q=80",
+    image: "/images/32-guadalajara-cathedral.jpg",
     imageAlt: "Guadalajara Cathedral",
   },
   {
@@ -153,7 +153,7 @@ export const guideLinks: GuideLink[] = [
     description: "Artisan shopping, El Parián, craft galleries",
     category: "neighborhood",
     accentColor: "tequila",
-    image: "https://images.unsplash.com/photo-1568402102990-bc541580b59f?w=800&q=80",
+    image: "/images/26-tlaquepaque-colorful-street.jpg",
     imageAlt: "Colorful Tlaquepaque street",
   },
   {
@@ -162,7 +162,7 @@ export const guideLinks: GuideLink[] = [
     description: "Bar corridor, Colonia Americana architecture",
     category: "neighborhood",
     accentColor: "agave",
-    image: "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=800&q=80",
+    image: "/images/29-chapultepec-nightlife.jpg",
     imageAlt: "Chapultepec avenue at night",
   },
   {
@@ -171,7 +171,7 @@ export const guideLinks: GuideLink[] = [
     description: "Basilica, Huentiton ravine, modern art",
     category: "neighborhood",
     accentColor: "mariachi",
-    image: "https://images.unsplash.com/photo-1605216663980-3a58e01b2b4c?w=800&q=80",
+    image: "/images/36-basilica-zapopan.jpg",
     imageAlt: "Zapopan basilica",
   },
   {
@@ -180,7 +180,7 @@ export const guideLinks: GuideLink[] = [
     description: "Thursday/Sunday tianguis, blown glass, papier-mâché",
     category: "neighborhood",
     accentColor: "cantera",
-    image: "https://images.unsplash.com/photo-1596392927852-2a18e07e3e9b?w=800&q=80",
+    image: "/images/33-tropical-fruit-stall.jpg",
     imageAlt: "Tonalá artisan market",
   },
   // Day trips
@@ -190,7 +190,7 @@ export const guideLinks: GuideLink[] = [
     description: "José Cuervo vs small distilleries — the honest take",
     category: "day-trip",
     accentColor: "tequila",
-    image: "https://images.unsplash.com/photo-1629216432687-3e2e0ee35fe5?w=800&q=80",
+    image: "/images/40-agave-fields-tequila.jpg",
     imageAlt: "Blue agave fields in Tequila",
   },
   {
@@ -199,7 +199,7 @@ export const guideLinks: GuideLink[] = [
     description: "Ajijic + Chapala, expat vs tourist perspective",
     category: "day-trip",
     accentColor: "agave",
-    image: "https://images.unsplash.com/photo-1570737543098-1305f902a22c?w=800&q=80",
+    image: "/images/28-lake-chapala-sunset.jpg",
     imageAlt: "Lake Chapala boardwalk",
   },
   {
@@ -208,7 +208,7 @@ export const guideLinks: GuideLink[] = [
     description: "Circular pyramids, logistics, combine with Tequila?",
     category: "day-trip",
     accentColor: "agave",
-    image: "https://images.unsplash.com/photo-1613764974803-ff89d4be09d2?w=800&q=80",
+    image: "/images/38-guachimontones-aerial.jpg",
     imageAlt: "Guachimontones pyramids aerial view",
   },
   {
@@ -217,7 +217,7 @@ export const guideLinks: GuideLink[] = [
     description: "Mountain pueblo mágico, cabin weekend escape",
     category: "day-trip",
     accentColor: "mariachi",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+    image: "/images/06-cabin-pine-forest.jpg",
     imageAlt: "Mazamitla mountain cabins",
   },
   // Audience
@@ -227,7 +227,7 @@ export const guideLinks: GuideLink[] = [
     description: "Romantic itinerary angles",
     category: "audience",
     accentColor: "cantera",
-    image: "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=800&q=80",
+    image: "/images/15-couple-dining-courtyard.jpg",
     imageAlt: "Couple at Guadalajara restaurant",
   },
   {
@@ -236,7 +236,7 @@ export const guideLinks: GuideLink[] = [
     description: "Safety, social hostels, coworking",
     category: "audience",
     accentColor: "mariachi",
-    image: "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+    image: "/images/05-lake-chapala-panoramic.jpg",
     imageAlt: "Solo traveler exploring Guadalajara",
   },
   {
@@ -245,7 +245,7 @@ export const guideLinks: GuideLink[] = [
     description: "Coworking, cost of living, visa, neighborhoods",
     category: "audience",
     accentColor: "agave",
-    image: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80",
+    image: "/images/13-coworking-space.jpg",
     imageAlt: "Coworking space in Guadalajara",
   },
   {
@@ -254,7 +254,7 @@ export const guideLinks: GuideLink[] = [
     description: "Honest comparison — livability, cost, vibe",
     category: "audience",
     accentColor: "tequila",
-    image: "https://images.unsplash.com/photo-1518659526054-190340b32735?w=800&q=80",
+    image: "/images/12-guadalajara-cityscape.jpg",
     imageAlt: "Mexico City and Guadalajara split",
   },
   // Cultural
@@ -264,7 +264,7 @@ export const guideLinks: GuideLink[] = [
     description: "Muralism history, specific walls and routes",
     category: "audience",
     accentColor: "cantera",
-    image: "https://images.unsplash.com/photo-1561059488-916d69792237?w=800&q=80",
+    image: "/images/23-street-mural.jpg",
     imageAlt: "Street mural in Guadalajara",
   },
   {
@@ -273,7 +273,7 @@ export const guideLinks: GuideLink[] = [
     description: "Latin America's largest indoor market — floor by floor",
     category: "food",
     accentColor: "tequila",
-    image: "https://images.unsplash.com/photo-1667675068275-d822c63b1217?w=800&q=80",
+    image: "/images/41-indoor-mercado.jpg",
     imageAlt: "Inside Mercado San Juan de Dios",
   },
   {
@@ -282,7 +282,7 @@ export const guideLinks: GuideLink[] = [
     description: "Orozco murals, UNESCO site, visit logistics",
     category: "neighborhood",
     accentColor: "mariachi",
-    image: "https://images.unsplash.com/photo-1605216663980-3a58e01b4b4c?w=800&q=80",
+    image: "/images/37-colonial-church.jpg",
     imageAlt: "Hospicio Cabañas interior",
   },
 ];

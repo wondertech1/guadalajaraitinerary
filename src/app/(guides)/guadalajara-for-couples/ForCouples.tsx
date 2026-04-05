@@ -38,7 +38,7 @@ export function ForCouples() {
         pills={["Date restaurants", "Romantic activities", "Boutique hotels", "Mazamitla cabin trip"]}
         updatedDate="Mar 2026"
         readTime="9 min"
-        image="https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=1600&q=80"
+        image="/images/15-couple-dining-courtyard.jpg"
         imageAlt="Couple dining at a romantic restaurant"
       />
 
@@ -70,7 +70,7 @@ export function ForCouples() {
           </TipCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1585975421498-1e339f0e5c5b?w=800&q=80"
+            src="/images/32-guadalajara-cathedral.jpg"
             alt="Colonial street in Guadalajara with colorful architecture perfect for a couples stroll"
             caption="Colonia Americana's Art Deco streets are ideal for a romantic evening walk"
             aspectRatio="landscape"
@@ -129,7 +129,7 @@ export function ForCouples() {
           </SpotCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1568402102990-bc541580b59f?w=800&q=80"
+            src="/images/26-tlaquepaque-colorful-street.jpg"
             alt="Artisan crafts in Tlaquepaque near Guadalajara, a romantic shopping destination for couples"
             caption="Tlaquepaque's artisan shops make for a charming couples day trip"
             aspectRatio="landscape"
@@ -175,7 +175,7 @@ export function ForCouples() {
           </SpotCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&q=80"
+            src="/images/22-romantic-candlelit-dinner.jpg"
             alt="Romantic candlelit dinner setting in Guadalajara restaurant for date night"
             caption="GDL's upscale restaurants offer candlelit ambiance at a fraction of US prices"
             aspectRatio="landscape"

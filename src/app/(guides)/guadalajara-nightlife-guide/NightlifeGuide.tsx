@@ -38,7 +38,7 @@ export function NightlifeGuide() {
         pills={["15+ bars reviewed", "Live music venues", "Bar crawl route", "Late-night tacos"]}
         updatedDate="Mar 2026"
         readTime="12 min"
-        image="https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=1600&q=80"
+        image="/images/29-chapultepec-nightlife.jpg"
         imageAlt="Chapultepec avenue bars at night"
       />
 
@@ -98,7 +98,7 @@ export function NightlifeGuide() {
       <section className="px-4 sm:px-6">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=800&q=80"
+            src="/images/04-cocktail-bar-speakeasy.jpg"
             alt="Cocktail bar ambiance with warm lighting on Guadalajara's Chapultepec avenue"
             caption="Chapultepec's cocktail bars range from intimate speakeasies to open-air terraces"
             aspectRatio="landscape"
@@ -142,7 +142,7 @@ export function NightlifeGuide() {
       <section className="px-4 sm:px-6">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800&q=80"
+            src="/images/08-tequila-mezcal-tasting.jpg"
             alt="Mezcal and raicilla flight tasting at a Guadalajara mezcalería"
             caption="A raicilla flight at Pare de Sufrir — the essential Guadalajara spirits experience"
             aspectRatio="wide"
@@ -193,7 +193,7 @@ export function NightlifeGuide() {
       <section className="px-4 sm:px-6">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?w=800&q=80"
+            src="/images/09-mariachi-musicians.jpg"
             alt="Mariachi musicians performing at a traditional Guadalajara cantina"
             caption="Mariachi music is part of the fabric of Guadalajara's night scene"
             aspectRatio="landscape"

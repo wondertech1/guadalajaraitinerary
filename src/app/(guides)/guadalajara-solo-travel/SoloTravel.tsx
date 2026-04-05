@@ -37,7 +37,7 @@ export function SoloTravel() {
         pills={["Safety focused", "Social hostels", "Solo-friendly activities", "Female travel tips"]}
         updatedDate="Mar 2026"
         readTime="9 min"
-        image="https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1600&q=80"
+        image="/images/05-lake-chapala-panoramic.jpg"
         imageAlt="Solo traveler exploring a Mexican street"
       />
 
@@ -65,7 +65,7 @@ export function SoloTravel() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1585975421498-1e339f0e5c5b?w=800&q=80"
+            src="/images/32-guadalajara-cathedral.jpg"
             alt="Walkable colonial street in Guadalajara ideal for solo travelers exploring on foot"
             caption="GDL's walkable neighborhoods make solo exploration easy and enjoyable"
             aspectRatio="landscape"
@@ -123,7 +123,7 @@ export function SoloTravel() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800&q=80"
+            src="/images/21-hostel-common-area.jpg"
             alt="Social hostel common area in Guadalajara where solo travelers meet other backpackers"
             caption="Social hostels like Hospedarte are the easiest way to meet fellow travelers"
             aspectRatio="landscape"
@@ -173,7 +173,7 @@ export function SoloTravel() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80"
+            src="/images/14-coffee-shop-coworking.jpg"
             alt="Coffee shop in Guadalajara with solo travelers working and socializing"
             caption="GDL's cafe culture makes it easy to spend a solo afternoon with a book or laptop"
             aspectRatio="landscape"

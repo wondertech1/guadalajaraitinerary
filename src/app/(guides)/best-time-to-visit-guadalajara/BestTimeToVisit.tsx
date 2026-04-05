@@ -76,7 +76,7 @@ export function BestTimeToVisit() {
         pills={["12 months compared", "Festival calendar", "Price trends", "Real verdicts"]}
         updatedDate="Mar 2026"
         readTime="10 min"
-        image="https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=1600&q=80"
+        image="/images/10-colonial-plaza-jacarandas.jpg"
         imageAlt="Guadalajara plaza with jacaranda trees in bloom"
       />
 
@@ -105,7 +105,7 @@ export function BestTimeToVisit() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1568402102990-bc541580b59f?w=800&q=80"
+            src="/images/26-tlaquepaque-colorful-street.jpg"
             alt="Colorful Guadalajara plaza with clear blue skies during dry season"
             caption="October through May offers clear skies and ideal weather for exploring Guadalajara."
             aspectRatio="landscape"
@@ -131,7 +131,7 @@ export function BestTimeToVisit() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?w=800&q=80"
+            src="/images/35-street-tacos-grill.jpg"
             alt="Street food vendor in Guadalajara preparing tacos during festival season"
             caption="Fiestas de Octubre (October) transforms Guadalajara into a month-long celebration."
             aspectRatio="wide"
@@ -223,7 +223,7 @@ export function BestTimeToVisit() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&q=80"
+            src="/images/31-colonial-courtyard.jpg"
             alt="Boutique hotel courtyard in Guadalajara showing accommodation options"
             caption="Hotel prices fluctuate significantly by season — January and February offer the best deals."
             aspectRatio="landscape"
@@ -240,7 +240,7 @@ export function BestTimeToVisit() {
       <section className="px-4 sm:px-6 pb-6">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="https://images.unsplash.com/photo-1585975421498-1e339f0e5c5b?w=800&q=80"
+            src="/images/32-guadalajara-cathedral.jpg"
             alt="Colonial Guadalajara street in dry season with pleasant walking weather"
             caption="March through May brings warm, dry weather and blooming jacaranda trees across the city."
             aspectRatio="wide"

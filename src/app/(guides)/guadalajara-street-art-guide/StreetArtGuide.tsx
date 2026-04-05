@@ -38,7 +38,7 @@ export function StreetArtGuide() {
         pills={["2 walking routes", "Muralism history", "Specific walls", "Free + self-guided"]}
         updatedDate="Mar 2026"
         readTime="10 min"
-        image="https://images.unsplash.com/photo-1561059488-916d69792237?w=1600&q=80"
+        image="/images/23-street-mural.jpg"
         imageAlt="Colorful street mural in Guadalajara"
       />
 
@@ -89,7 +89,7 @@ export function StreetArtGuide() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=800&q=80"
+            src="/images/30-orozco-mural-fresco.jpg"
             alt="Graffiti and mural wall art in Guadalajara continuing the city's muralism tradition"
             caption="GDL's muralism tradition stretches from Orozco's revolutionary frescoes to today's urban walls"
             aspectRatio="wide"
@@ -158,7 +158,7 @@ export function StreetArtGuide() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=800&q=80"
+            src="/images/29-chapultepec-nightlife.jpg"
             alt="Colorful urban street art along Av. Federalismo in Guadalajara at golden hour"
             caption="Av. Federalismo's building facades feature commissioned murals from annual street art festivals"
             aspectRatio="landscape"
@@ -191,7 +191,7 @@ export function StreetArtGuide() {
           </ScrollReveal>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1585975421498-1e339f0e5c5b?w=800&q=80"
+            src="/images/32-guadalajara-cathedral.jpg"
             alt="Guadalajara colonial street with art galleries and murals in Colonia Americana"
             caption="Colonia Americana's side streets hide design-influenced murals and paste-ups"
             aspectRatio="landscape"

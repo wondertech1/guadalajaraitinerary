@@ -38,7 +38,7 @@ export function GuachimontonesDayTrip() {
         pills={["75 min from GDL", "Half day", "60 MXN entry", "Combine with Tequila"]}
         updatedDate="Mar 2026"
         readTime="8 min"
-        image="https://images.unsplash.com/photo-1613764974803-ff89d4be09d2?w=1600&q=80"
+        image="/images/38-guachimontones-aerial.jpg"
         imageAlt="Circular pyramids of Guachimontones aerial view"
       />
 
@@ -76,7 +76,7 @@ export function GuachimontonesDayTrip() {
           </TipCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1518638150340-f706e86654de?w=800&q=80"
+            src="/images/11-guachimontones-ruins.jpg"
             alt="Archaeological ruins and stepped pyramids at Guachimontones near Guadalajara"
             caption="The circular stepped pyramids of Guachimontones are unique in Mesoamerica"
             aspectRatio="wide"
@@ -174,7 +174,7 @@ export function GuachimontonesDayTrip() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1629216432687-3e2e0ee35fe5?w=800&q=80"
+            src="/images/40-agave-fields-tequila.jpg"
             alt="Green valley landscape surrounding Guachimontones archaeological site near Tequila"
             caption="The hilltop setting offers panoramic views of the valley and La Vega lake"
             aspectRatio="landscape"
@@ -200,7 +200,7 @@ export function GuachimontonesDayTrip() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&q=80"
+            src="/images/03-scenic-highway-jalisco.jpg"
             alt="Road through the Jalisco countryside on the way to Guachimontones from Guadalajara"
             caption="No public bus runs directly to the site — car or Uber is recommended"
             aspectRatio="wide"

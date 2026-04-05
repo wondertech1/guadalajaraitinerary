@@ -38,7 +38,7 @@ export function ThreeDayItinerary() {
         pills={["3 Days", "~4,200 MXN budget", "21 stops", "Tequila day trip"]}
         updatedDate="Mar 2026"
         readTime="14 min"
-        image="https://images.unsplash.com/photo-1629216432687-3e2e0ee35fe5?w=1600&q=80"
+        image="/images/40-agave-fields-tequila.jpg"
         imageAlt="Blue agave fields with Tequila town in the background"
       />
 
@@ -168,7 +168,7 @@ export function ThreeDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1667675068275-d822c63b1217?w=800&q=80"
+            src="/images/41-indoor-mercado.jpg"
             alt="Busy Mexican market stall with colorful produce and dried chiles in Guadalajara"
             caption="Mercado San Juan de Dios — Latin America's largest indoor market"
             aspectRatio="wide"
@@ -293,7 +293,7 @@ export function ThreeDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1629216432687-3e2e0ee35fe5?w=800&q=80"
+            src="/images/40-agave-fields-tequila.jpg"
             alt="Blue agave fields stretching to the horizon near Tequila, Jalisco"
             caption="UNESCO-designated agave landscape on the road to Tequila"
             aspectRatio="landscape"
@@ -350,7 +350,7 @@ export function ThreeDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1569529465841-dfecdab7503b?w=800&q=80"
+            src="/images/27-tequila-bottles-distillery.jpg"
             alt="Tequila bottles aging at a traditional distillery in Jalisco, Mexico"
             caption="Destilería La Fortaleza — small-batch tequila using traditional tahona methods"
             aspectRatio="landscape"
@@ -442,7 +442,7 @@ export function ThreeDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1605216663980-3a58e01b4b4c?w=800&q=80"
+            src="/images/37-colonial-church.jpg"
             alt="Colonial church facade in Zapopan, Guadalajara with ornate stone carvings"
             caption="Basílica de Zapopan — home to Guadalajara's most revered religious image"
             aspectRatio="landscape"
@@ -491,7 +491,7 @@ export function ThreeDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?w=800&q=80"
+            src="/images/09-mariachi-musicians.jpg"
             alt="Mariachi musicians in traditional charro outfits performing in a Guadalajara plaza"
             caption="Plaza de los Mariachis — where mariachi tradition was born"
             aspectRatio="landscape"

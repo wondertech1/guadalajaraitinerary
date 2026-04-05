@@ -38,7 +38,7 @@ export function FiveDayItinerary() {
         pills={["5 Days", "~7,500 MXN budget", "30+ stops", "2 day trips"]}
         updatedDate="Mar 2026"
         readTime="16 min"
-        image="https://images.unsplash.com/photo-1570737543098-1305f902a22c?w=1600&q=80"
+        image="/images/28-lake-chapala-sunset.jpg"
         imageAlt="Lake Chapala sunset with mountains in the background"
       />
 
@@ -163,7 +163,7 @@ export function FiveDayItinerary() {
           </TipCard>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1570737543098-1305f902a22c?w=800&q=80"
+            src="/images/28-lake-chapala-sunset.jpg"
             alt="Sunset over Lake Chapala with mountain silhouettes near Guadalajara"
             caption="Lake Chapala — Mexico's largest lake, 45 minutes from Guadalajara"
             aspectRatio="wide"
@@ -210,7 +210,7 @@ export function FiveDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?w=800&q=80"
+            src="/images/10-colonial-plaza-jacarandas.jpg"
             alt="Peaceful Mexican plaza with a stone fountain surrounded by colonial buildings"
             caption="Ajijic village — cobblestoned streets and lakeside galleries"
             aspectRatio="landscape"
@@ -267,7 +267,7 @@ export function FiveDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1667675068275-d822c63b1217?w=800&q=80"
+            src="/images/41-indoor-mercado.jpg"
             alt="Vibrant Mexican artisan market with handmade pottery and crafts near Guadalajara"
             caption="Tonalá tianguis — over 4,000 vendors across blocks of artisan stalls"
             aspectRatio="wide"
@@ -333,7 +333,7 @@ export function FiveDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=800&q=80"
+            src="/images/19-birria-tacos.jpg"
             alt="Birria tacos with consomé on a plate at a Guadalajara taquería"
             caption="One more round of birria — the farewell ritual of every Guadalajara trip"
             aspectRatio="square"
