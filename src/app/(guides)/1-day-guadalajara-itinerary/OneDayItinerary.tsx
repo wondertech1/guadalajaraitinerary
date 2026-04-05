@@ -129,8 +129,8 @@ export function OneDayItinerary() {
           </TipCard>
 
           <ContentImage
-            src="/images/35-street-tacos-grill.jpg"
-            alt="Authentic Mexican birria tacos served at a Guadalajara street stall"
+            src="/images/19-birria-tacos.jpg"
+            alt="Steaming birria tacos with red consomé at a Guadalajara street stall"
             caption="Birria en caldo — the essential Guadalajara breakfast"
             aspectRatio="landscape"
           />

@@ -38,8 +38,8 @@ export function TonalaGuide() {
         pills={["Thu & Sun only", "4,000+ vendors", "20 min from Centro", "Workshop visits"]}
         updatedDate="Mar 2026"
         readTime="10 min"
-        image="/images/33-tropical-fruit-stall.jpg"
-        imageAlt="Artisan pottery at Tonalá market"
+        image="/images/24-talavera-pottery.jpg"
+        imageAlt="Hand-painted Talavera pottery and ceramics at Tonalá artisan market"
       />
 
       <CanteraDivider className="my-0" />
@@ -125,8 +125,8 @@ export function TonalaGuide() {
           </SpotCard>
 
           <ContentImage
-            src="/images/18-light-rail-station.jpg"
-            alt="Blown glass artisan crafting glassware in Tonalá workshop Guadalajara"
+            src="/images/45-blown-glass-workshop.jpg"
+            alt="Artisan glass-blower shaping molten glass at a Tonalá workshop in Guadalajara"
             caption="Family-run glass workshops open their doors on market days"
             aspectRatio="square"
           />

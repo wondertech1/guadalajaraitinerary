@@ -70,8 +70,8 @@ export function ForCouples() {
           </TipCard>
 
           <ContentImage
-            src="/images/32-guadalajara-cathedral.jpg"
-            alt="Colonial street in Guadalajara with colorful architecture perfect for a couples stroll"
+            src="/images/26-tlaquepaque-colorful-street.jpg"
+            alt="Colorful pedestrian street in Guadalajara with colonial architecture perfect for a couples stroll"
             caption="Colonia Americana's Art Deco streets are ideal for a romantic evening walk"
             aspectRatio="landscape"
           />

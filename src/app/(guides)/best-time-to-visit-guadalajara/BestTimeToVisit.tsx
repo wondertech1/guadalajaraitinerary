@@ -240,8 +240,8 @@ export function BestTimeToVisit() {
       <section className="px-4 sm:px-6 pb-6">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="/images/32-guadalajara-cathedral.jpg"
-            alt="Colonial Guadalajara street in dry season with pleasant walking weather"
+            src="/images/43-walkable-colonial-street.jpg"
+            alt="Colonial Guadalajara street with jacaranda trees in dry season"
             caption="March through May brings warm, dry weather and blooming jacaranda trees across the city."
             aspectRatio="wide"
           />

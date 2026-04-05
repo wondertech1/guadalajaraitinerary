@@ -275,8 +275,8 @@ export function BudgetGuide() {
           </ScrollReveal>
 
           <ContentImage
-            src="/images/37-colonial-church.jpg"
-            alt="Rooftop view of Guadalajara showing affordable city with modern skyline"
+            src="/images/12-guadalajara-cityscape.jpg"
+            alt="Guadalajara skyline showing an affordable city with colonial and modern architecture"
             caption="Guadalajara delivers world-class culture at a fraction of typical travel destination costs."
             aspectRatio="wide"
           />

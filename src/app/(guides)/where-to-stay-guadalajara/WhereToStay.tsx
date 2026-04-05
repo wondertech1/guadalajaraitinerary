@@ -190,8 +190,8 @@ export function WhereToStay() {
           </ScrollReveal>
 
           <ContentImage
-            src="/images/32-guadalajara-cathedral.jpg"
-            alt="Colonial street in Guadalajara with colorful buildings and walkable sidewalks"
+            src="/images/43-walkable-colonial-street.jpg"
+            alt="Walkable colonial street in Guadalajara with colorful buildings and jacaranda trees"
             caption="Guadalajara's walkable colonial streets make neighborhood choice crucial for your trip."
             aspectRatio="landscape"
           />
@@ -460,8 +460,8 @@ export function WhereToStay() {
           </TipCard>
 
           <ContentImage
-            src="/images/37-colonial-church.jpg"
-            alt="Rooftop view of Guadalajara city skyline at sunset"
+            src="/images/12-guadalajara-cityscape.jpg"
+            alt="Guadalajara city skyline at golden hour with colonial domes and modern buildings"
             caption="Many mid-range hotels offer rooftop terraces with sweeping city views."
             aspectRatio="wide"
           />

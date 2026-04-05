@@ -119,8 +119,8 @@ export function GdlVsCdmx() {
           </ScrollReveal>
 
           <ContentImage
-            src="/images/32-guadalajara-cathedral.jpg"
-            alt="Colonial street in Guadalajara with colorful buildings contrasting Mexico City's urban sprawl"
+            src="/images/42-colonia-americana-street.jpg"
+            alt="Leafy residential street in Guadalajara contrasting Mexico City's urban sprawl"
             caption="Guadalajara's walkable colonial streets feel worlds apart from CDMX's megacity energy"
             aspectRatio="landscape"
           />

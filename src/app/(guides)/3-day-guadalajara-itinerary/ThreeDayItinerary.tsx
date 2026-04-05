@@ -442,8 +442,8 @@ export function ThreeDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="/images/37-colonial-church.jpg"
-            alt="Colonial church facade in Zapopan, Guadalajara with ornate stone carvings"
+            src="/images/36-basilica-zapopan.jpg"
+            alt="Basílica de Zapopan facade with twin spires in Guadalajara"
             caption="Basílica de Zapopan — home to Guadalajara's most revered religious image"
             aspectRatio="landscape"
           />

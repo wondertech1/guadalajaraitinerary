@@ -37,8 +37,8 @@ export function SoloTravel() {
         pills={["Safety focused", "Social hostels", "Solo-friendly activities", "Female travel tips"]}
         updatedDate="Mar 2026"
         readTime="9 min"
-        image="/images/05-lake-chapala-panoramic.jpg"
-        imageAlt="Solo traveler exploring a Mexican street"
+        image="/images/34-busy-pedestrian-street.jpg"
+        imageAlt="Bustling Guadalajara pedestrian street ideal for solo travelers exploring on foot"
       />
 
       <CanteraDivider className="my-0" />
@@ -65,7 +65,7 @@ export function SoloTravel() {
           </ScrollReveal>
 
           <ContentImage
-            src="/images/32-guadalajara-cathedral.jpg"
+            src="/images/43-walkable-colonial-street.jpg"
             alt="Walkable colonial street in Guadalajara ideal for solo travelers exploring on foot"
             caption="GDL's walkable neighborhoods make solo exploration easy and enjoyable"
             aspectRatio="landscape"

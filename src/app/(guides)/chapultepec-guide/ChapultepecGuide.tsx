@@ -150,8 +150,8 @@ export function ChapultepecGuide() {
           </SpotCard>
 
           <ContentImage
-            src="/images/32-guadalajara-cathedral.jpg"
-            alt="Guadalajara nightlife along Avenida Chapultepec bar corridor"
+            src="/images/04-cocktail-bar-speakeasy.jpg"
+            alt="Cocktail bar with warm amber lighting along Avenida Chapultepec in Guadalajara"
             caption="The Chapultepec strip comes alive after 9pm"
             aspectRatio="wide"
           />

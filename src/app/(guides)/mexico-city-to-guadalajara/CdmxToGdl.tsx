@@ -166,8 +166,8 @@ export function CdmxToGdl() {
           </TipCard>
 
           <ContentImage
-            src="/images/18-light-rail-station.jpg"
-            alt="Mexican bus station with luxury coaches for the Mexico City to Guadalajara route"
+            src="/images/46-bus-station-coaches.jpg"
+            alt="Luxury ETN and Primera Plus coaches at a Mexican bus terminal"
             caption="ETN and Primera Plus luxury buses offer reclining seats and WiFi for the 6-hour ride"
             aspectRatio="landscape"
           />
@@ -199,8 +199,8 @@ export function CdmxToGdl() {
           </ScrollReveal>
 
           <ContentImage
-            src="/images/10-colonial-plaza-jacarandas.jpg"
-            alt="Mexican highland landscape along the highway between Mexico City and Guadalajara"
+            src="/images/03-scenic-highway-jalisco.jpg"
+            alt="Scenic highway through Mexican highlands between Mexico City and Guadalajara"
             caption="The toll highway passes through scenic Mexican highlands for 540 km"
             aspectRatio="wide"
           />

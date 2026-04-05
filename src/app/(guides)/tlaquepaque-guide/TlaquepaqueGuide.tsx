@@ -84,8 +84,8 @@ export function TlaqupaqueGuide() {
           </SpotCard>
 
           <ContentImage
-            src="/images/18-light-rail-station.jpg"
-            alt="Blown glass artisan at work in Tlaquepaque Guadalajara"
+            src="/images/45-blown-glass-workshop.jpg"
+            alt="Glass-blowing artisan shaping colorful blown glass in Tlaquepaque workshop"
             caption="Glass-blowing workshops line Calle Independencia"
             aspectRatio="landscape"
           />

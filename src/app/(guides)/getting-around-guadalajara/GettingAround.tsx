@@ -128,8 +128,8 @@ export function GettingAround() {
           </ScrollReveal>
 
           <ContentImage
-            src="/images/03-scenic-highway-jalisco.jpg"
-            alt="Uber ride through Guadalajara streets showing convenient city transport"
+            src="/images/34-busy-pedestrian-street.jpg"
+            alt="Busy Guadalajara city street showing convenient urban transport options"
             caption="Uber is the default transport for visitors — cheap, safe, and available everywhere in Guadalajara."
             aspectRatio="landscape"
           />
@@ -246,8 +246,8 @@ export function GettingAround() {
           </TipCard>
 
           <ContentImage
-            src="/images/32-guadalajara-cathedral.jpg"
-            alt="Colonial Guadalajara street near the airport transfer route to Centro"
+            src="/images/44-airport-transfer-street.jpg"
+            alt="View from inside a car on a Guadalajara boulevard near the airport transfer route"
             caption="The airport is 20–25 minutes from central Guadalajara by Uber."
             aspectRatio="landscape"
           />

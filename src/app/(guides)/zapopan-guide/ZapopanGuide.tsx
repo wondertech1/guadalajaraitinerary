@@ -91,8 +91,8 @@ export function ZapopanGuide() {
           </SpotCard>
 
           <ContentImage
-            src="/images/10-colonial-plaza-jacarandas.jpg"
-            alt="Plaza with fountain in front of Basílica de Zapopan Guadalajara"
+            src="/images/36-basilica-zapopan.jpg"
+            alt="Basílica de Zapopan facade with twin spires and plaza in Guadalajara"
             caption="The peaceful plaza outside the Basílica de Zapopan"
             aspectRatio="landscape"
           />

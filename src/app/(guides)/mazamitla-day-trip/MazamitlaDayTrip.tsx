@@ -250,8 +250,8 @@ export function MazamitlaDayTrip() {
       <section className="py-6 px-4 sm:px-6">
         <div className="mx-auto max-w-3xl">
           <ContentImage
-            src="/images/05-lake-chapala-panoramic.jpg"
-            alt="Scenic mountain valley and lake landscape near Mazamitla, Jalisco"
+            src="/images/07-foggy-pine-forest.jpg"
+            alt="Misty pine forest trails in the Sierra del Tigre near Mazamitla, Jalisco"
             caption="The Sierra del Tigre surrounding Mazamitla offers excellent hiking trails"
             aspectRatio="wide"
           />

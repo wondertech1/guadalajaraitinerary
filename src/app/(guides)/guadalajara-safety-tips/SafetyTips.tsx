@@ -209,7 +209,7 @@ export function SafetyTips() {
           </ZoneCard>
 
           <ContentImage
-            src="/images/32-guadalajara-cathedral.jpg"
+            src="/images/43-walkable-colonial-street.jpg"
             alt="Colonial Guadalajara street during daytime with pedestrians walking safely"
             caption="Guadalajara's tourist neighborhoods are well-patrolled and safe during the day."
             aspectRatio="wide"
@@ -423,8 +423,8 @@ export function SafetyTips() {
           </TipCard>
 
           <ContentImage
-            src="/images/03-scenic-highway-jalisco.jpg"
-            alt="Uber ride through Guadalajara streets showing safe transport option"
+            src="/images/34-busy-pedestrian-street.jpg"
+            alt="Busy Guadalajara pedestrian street showing safe daytime transport options"
             caption="Uber and Didi are the safest way to get around Guadalajara, especially after dark."
             aspectRatio="wide"
           />

@@ -271,8 +271,8 @@ export function SevenDayItinerary() {
           </TimeBlock>
 
           <ContentImage
-            src="/images/35-street-tacos-grill.jpg"
-            alt="Mexican street tacos al pastor being served from a trompo in Guadalajara"
+            src="/images/19-birria-tacos.jpg"
+            alt="Birria tacos with rich red consomé at a Guadalajara taqueria"
             caption="Third birria of the trip — by now you have your favorite spot"
             aspectRatio="landscape"
           />

@@ -180,8 +180,8 @@ export const guideLinks: GuideLink[] = [
     description: "Thursday/Sunday tianguis, blown glass, papier-mâché",
     category: "neighborhood",
     accentColor: "cantera",
-    image: "/images/33-tropical-fruit-stall.jpg",
-    imageAlt: "Tonalá artisan market",
+    image: "/images/24-talavera-pottery.jpg",
+    imageAlt: "Hand-painted Talavera pottery at Tonalá artisan market",
   },
   // Day trips
   {
@@ -236,8 +236,8 @@ export const guideLinks: GuideLink[] = [
     description: "Safety, social hostels, coworking",
     category: "audience",
     accentColor: "mariachi",
-    image: "/images/05-lake-chapala-panoramic.jpg",
-    imageAlt: "Solo traveler exploring Guadalajara",
+    image: "/images/34-busy-pedestrian-street.jpg",
+    imageAlt: "Bustling Guadalajara pedestrian street for solo exploration",
   },
   {
     label: "Digital Nomads",
@@ -282,8 +282,8 @@ export const guideLinks: GuideLink[] = [
     description: "Orozco murals, UNESCO site, visit logistics",
     category: "neighborhood",
     accentColor: "mariachi",
-    image: "/images/37-colonial-church.jpg",
-    imageAlt: "Hospicio Cabañas interior",
+    image: "/images/31-colonial-courtyard.jpg",
+    imageAlt: "Arched colonnades and courtyard at Hospicio Cabañas",
   },
 ];
 

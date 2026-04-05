@@ -37,8 +37,8 @@ export function HospicioCabanas() {
         pills={["UNESCO World Heritage", "Orozco frescoes", "90 MXN (free Tue)", "45–60 min"]}
         updatedDate="Mar 2026"
         readTime="9 min"
-        image="/images/37-colonial-church.jpg"
-        imageAlt="Hospicio Cabañas courtyard"
+        image="/images/31-colonial-courtyard.jpg"
+        imageAlt="Arched colonnades and central courtyard at Hospicio Cabañas"
       />
 
       <CanteraDivider className="my-0" />

@@ -158,8 +158,8 @@ export function StreetArtGuide() {
           </ScrollReveal>
 
           <ContentImage
-            src="/images/29-chapultepec-nightlife.jpg"
-            alt="Colorful urban street art along Av. Federalismo in Guadalajara at golden hour"
+            src="/images/23-street-mural.jpg"
+            alt="Colorful urban street mural along Av. Federalismo in Guadalajara"
             caption="Av. Federalismo's building facades feature commissioned murals from annual street art festivals"
             aspectRatio="landscape"
           />
@@ -191,8 +191,8 @@ export function StreetArtGuide() {
           </ScrollReveal>
 
           <ContentImage
-            src="/images/32-guadalajara-cathedral.jpg"
-            alt="Guadalajara colonial street with art galleries and murals in Colonia Americana"
+            src="/images/42-colonia-americana-street.jpg"
+            alt="Tree-lined Colonia Americana street with murals and Art Deco buildings in Guadalajara"
             caption="Colonia Americana's side streets hide design-influenced murals and paste-ups"
             aspectRatio="landscape"
           />
